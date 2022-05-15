@@ -1,0 +1,2 @@
+# macd_demo
+MACD INDICATOR FOR TRADING 
